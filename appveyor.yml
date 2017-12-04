@@ -1,0 +1,8 @@
+environment:
+  matrix:
+    # Visual Studio 2015
+    - APPVEYOR_BUILD_WORKER_IMAGE: Visual Studio 2015
+      SRC_FOLDER: src/VS2015
+
+before_build:
+  - nuget restore
