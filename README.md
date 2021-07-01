@@ -1,11 +1,3 @@
-<a href="http://cloudslang.io/">
-    <img src="https://camo.githubusercontent.com/ece898cfb3a9cc55353e7ab5d9014cc314af0234/687474703a2f2f692e696d6775722e636f6d2f696849353630562e706e67" alt="CloudSlang logo" title="CloudSlang" align="left" height="60"/>
-</a>
-
-<a href="https://developer.couchbase.com/documentation/server/current/introduction/intro.html/">
-    <img src="https://user-images.githubusercontent.com/410792/31419678-a45ed408-ae6f-11e7-8e06-282c9d668472.png" alt="VSCode logo" title="Visual Studio Code" align="right" height="80"/>
-</a>
-
 This repository contains a VSCode plugin for [CloudSlang](http://www.cloudslang.io/#/).
 
 ##
